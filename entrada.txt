@@ -1,0 +1,11 @@
+inicio hola
+  var n1 entero
+  var n2 entero
+  var resultado entero = 0
+  escribir("Dame n1")
+  leer(n1)
+  escribir("Dame n2")
+  leer(n2)
+  resultado = n1 + n2
+  escribir("Resultado: "+resultado)
+fin
